@@ -39,3 +39,5 @@ This is just the part where I mention stuff I use and do and that fits nowhere e
 - While I absolutely love working with Linux and know my way around to the point that I use Arch Linux, I am a power user in both Windows and Linux. On my Linux desktops, I intentionally use [a theme that looks like Windows 10](https://github.com/B00merang-Project/Windows-10-Dark) to confuse people as a sort of in-joke.
 - I love working with containers! Experimenting around with [Podman](https://podman.io/) but I would not want to lose my [Docker](https://docker.com) [Swarm](https://docs.docker.com/engine/swarm/) on my servers. Also, using [Fedora CoreOS](https://getfedora.org/en/coreos/) as operating system for server containers.
 - I virtualize on my servers with [libvirt](https://libvirt.org) and [Proxmox](https://proxmox.com) (both use QEMU/KVM behind the scenes). Looking forward to Proxmox's backup server solution since it has a lot of potential to improve QEMU VM backup experience for sysadmins!
+
+![I know, bad joke.](https://raw.githubusercontent.com/icedream/icedream/master/img/bad-joke.png)
