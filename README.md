@@ -8,7 +8,7 @@ I am **Carl Kittelberger**, born in Germany in March 1995, still living in Germa
 
 ## What are projects you could be known for?
 
-I think right now, [Icecon](https://github.com/icedream/icecon) is one of the more popular projects in my repository, especially in the gaming world. It is used to administrate game servers in a simple and even scripted manner.
+I think right now, [Icecon](https://github.com/icedream/icecon) is one of the more popular projects on my GitHub profile. It is used to administrate Q3game servers in a simple and even scripted manner. I think most use it for FiveM now, though it was initially designed to support admins of IW4M/IW5M servers.
 
 I also wrote a few Golang libraries like [this wrapper around the bsdiff C library](https://github.com/icedream/go-bsdiff) while I was experimenting with a way to efficiently distribute software updates.
 
