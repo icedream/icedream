@@ -4,7 +4,7 @@
 
 ## Who are you?
 
-I am **Carl Kittelberger**, born in Germany in March 1995, still living in Germany. I am a software and web developer, both programming and administrating servers as a hobby and for my main job. I am also a [Trance music]() producer and DJ.
+I am **Carl Kittelberger**, born in Germany in March 1995, still living in Germany. I am a software and web developer, both programming and administrating servers as a hobby and for my main job. I am also an electronic music producer and DJ -- not sure if you ever heard of Trance or Techno, but that's the genres I involve myself with there.
 
 ## What are projects you could be known for?
 
