@@ -29,3 +29,12 @@ Much later, I broke out from the “.NET Framework” to discover other programm
 ## Where can I find your music?
 
 If you're interested in that, start by checking out [my SoundCloud profile](https://soundcloud.com/icedream). This is where I upload all the music and mixes I produce. From there you can find other links to follow me if you end up liking my music.
+
+## Anything else you want to mention?
+
+This is just the part where I mention stuff I use and do and that fits nowhere else on this README. Might remove this at some point.
+
+- I currently use [VSCode](https://code.visualstudio.com) and its Insider version as my main code editor/IDE. Used to use Atom, Visual Studio, LiteIDE, Notepad++, PSPad and other GUI editors and IDEs before that.
+- While I absolutely love working with Linux and know my way around to the point that I use Arch Linux, I am a power user in both Windows and Linux. I intentionally use a theme on my Linux desktop that looks like Windows 10 to confuse people as a sort of in-joke.
+- I love working with containers! Experimenting around with podman but I would not want to lose my Docker Swarm on my servers. Also, using [Fedora CoreOS](https://getfedora.org/en/coreos/) as operating system for server containers.
+- I virtualize on my servers with [libvirt](https://libvirt.org) and [Proxmox](https://proxmox.com) (both use QEMU/KVM behind the scenes). Looking forward to Proxmox's backup server solution since it has a lot of potential to improve QEMU VM backup experience for sysadmins!
