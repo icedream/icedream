@@ -1,6 +1,6 @@
 # Hi!
 
-![carl://](./img/carl-logo.svg)
+![carl://](https://raw.githubusercontent.com/icedream/icedream/master/img/carl-logo.svg)
 
 ## Who are you?
 
